@@ -1,1 +1,3 @@
-console.log("success!")
+console.log("fail!")
+
+process.exit(1);
